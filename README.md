@@ -16,6 +16,8 @@ Users should be able to:
 - Play the game
 - Restart the game
 - Hold their score
+- Game ends when one player reaches the score of 100
+- Switches to the other player's turn if the current player rolls a "1"
 
 ### Screenshot
 
