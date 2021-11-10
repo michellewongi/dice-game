@@ -30,10 +30,8 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5
-- CSS custom properties
-- Flexbox
-- Vanilla Javascript
-- DOM Manipulation
+- CSS
+- Javascript
 
 ## Author
 
