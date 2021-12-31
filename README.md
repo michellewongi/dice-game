@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://mw3981.github.io/dice-game/]
+- Live Site URL: [https://michellewongi.github.io/dice-game/]
 
 ## My process
 
